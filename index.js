@@ -7,7 +7,7 @@ const app=express();
 
 app.get('/',async (req,res)=>{
     
-    res.json({"message":"hello revcieved"})
+    res.json(191265365)
     console.log("webhook worked")
    
 })
